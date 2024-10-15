@@ -1,0 +1,1 @@
+Keep track of maps done while boss rushing. Has auto placer in the map device.

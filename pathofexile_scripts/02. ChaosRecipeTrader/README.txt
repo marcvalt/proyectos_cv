@@ -1,0 +1,1 @@
+Can do all loop of clicking highlighted items by "Chaos Recipe Enhancer" program, filling 2 sets, and selling to lilly.

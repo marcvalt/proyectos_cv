@@ -1,0 +1,12 @@
+[2024/09/20 19:00:53] DEBUG: Mouse isn't over an essence
+[2024/09/20 19:02:31] DEBUG: Essence already rerolled
+[2024/09/20 19:03:59] DEBUG: Mouse isn't over an essence
+[2024/09/20 19:06:25] DEBUG: Mouse isn't over an essence
+[2024/09/20 19:07:36] DEBUG: Mouse isn't over an essence
+[2024/09/20 19:10:03] DEBUG: Mouse isn't over an essence
+[2024/09/20 19:15:17] DEBUG: Essence already rerolled
+[2024/09/20 19:15:18] DEBUG: Mouse isn't over an essence
+[2024/09/20 19:15:38] DEBUG: Ran out of juice
+[2024/09/20 19:17:43] DEBUG: Ran out of juice
+[2024/09/20 19:20:22] DEBUG: Ran out of juice
+[2024/09/20 19:20:38] DEBUG: Ran out of juice

@@ -1,0 +1,1 @@
+Auto release and store beasts. For both the bestiary window needs to be open and filter the beasts with the ingame search.

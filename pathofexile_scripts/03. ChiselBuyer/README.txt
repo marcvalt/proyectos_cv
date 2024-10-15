@@ -1,0 +1,1 @@
+Automatically refresh kirac mission and buys chiseler and other items from his shop. Use scarabs and uniquemaps files to whitelist which items you want to auto buy.

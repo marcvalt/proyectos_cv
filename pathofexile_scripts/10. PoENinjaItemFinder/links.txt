@@ -1,0 +1,5 @@
+https://poe.ninja/api/data/a/getcharacter?account=Lsroybot&name=RoyChoso&overview=settlers&type=exp
+https://poe.ninja/api/data/a/getcharacter?account=%EB%9C%A8%EB%A0%88%EB%81%BC&name=sweet_hanamu&overview=settlers&type=exp
+https://poe.ninja/api/data/a/getcharacter?account=StelLive&name=DlABLO_IV&overview=settlers&type=exp
+https://poe.ninja/api/data/a/getcharacter?account=BigBrainUser&name=werfjkbejkfhwehjbfjwekf&overview=settlers&type=exp
+https://poe.ninja/api/data/a/getcharacter?account=crisscrossy&name=SoK_Nextpage&overview=settlers&type=exp

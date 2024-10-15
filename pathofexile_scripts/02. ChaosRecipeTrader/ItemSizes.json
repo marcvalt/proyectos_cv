@@ -1,0 +1,78 @@
+[
+	{
+		"ItemClass": "Gloves",
+		"Count": 4
+	},
+	{
+		"ItemClass": "Helmets",
+		"Count": 4
+	},
+	{
+		"ItemClass": "Boots",
+		"Count": 4
+	},
+	{
+		"ItemClass": "Body Armours",
+		"Count": 6
+	},
+	{
+		"ItemClass": "Rings",
+		"Count": 1
+	},
+	{
+		"ItemClass": "Belts",
+		"Count": 2
+	},
+	{
+		"ItemClass": "Claws",
+		"Count": 4
+	},
+	{
+		"ItemClass": "One Hand Swords",
+		"Count": 3
+	},
+	{
+		"ItemClass": "Sceptres",
+		"Count": 6
+	},
+	{
+		"ItemClass": "One Hand Maces",
+		"Count": 3
+	},
+	{
+		"ItemClass": "Daggers",
+		"Count": 3
+	},
+	{
+		"ItemClass": "Rune Daggers",
+		"Count": 3
+	},
+	{
+		"ItemClass": "Wands",
+		"Count": 3
+	},
+	{
+		"ItemClass": "Warstaves",
+		"Count": 6
+	},
+	{
+		"ItemClass": "Bows",
+		"Count": 6
+	},
+	{
+		"ItemClass": "Staves",
+		"Count": 3
+	},
+	{
+		"ItemClass": "Two Hand Swords",
+		"Count": 6
+	},
+	{
+		"ItemClass": "Two Hand Maces",
+		"Count": 6
+	},
+	{
+		"ItemClass": "Two Hand Axes",
+		"Count": 6
+	}
+]

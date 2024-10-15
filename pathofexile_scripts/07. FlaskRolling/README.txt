@@ -1,0 +1,1 @@
+Basic script that uses alterations/augments when pressing a key. This doesn't automatically check for the mods, just makes easier not having to move your mouse.

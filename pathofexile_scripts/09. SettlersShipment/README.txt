@@ -1,0 +1,1 @@
+Auto setups shipments to values entered by user, only one location available at the moment.
